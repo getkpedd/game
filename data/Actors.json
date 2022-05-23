@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"lucasfght","characterIndex":0,"characterName":"lucaswalkingç","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"$Lucas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucas","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"lucasfght","characterIndex":0,"characterName":"hugowalkç","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"$Hugo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hugo","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"lucasfght","characterIndex":0,"characterName":"Adriwalk","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"$Adri","traits":[],"initialLevel":1,"maxLevel":99,"name":"Adrián","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_7","characterIndex":0,"characterName":"cayewakç","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"$caye","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cayetano","nickname":"","note":"","profile":""}
+]
